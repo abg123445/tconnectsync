@@ -1,0 +1,2 @@
+$ docker pull jwoglom/tconnectsync:latest
+$ docker run jwoglom/tconnectsync --help
